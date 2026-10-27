@@ -8,7 +8,6 @@ I turn Figma designs into fast, pixel-perfect, production-ready apps for iOS & A
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://nabeel-khan-flutter.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabeel-khan01)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/flutterstars)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flutterstars001@gmail.com)
 
 </div>
@@ -19,7 +18,6 @@ I turn Figma designs into fast, pixel-perfect, production-ready apps for iOS & A
 
 - 🚀 Senior Flutter Developer at **Duseca Software Pvt Ltd**
 - 📱 Shipped **15+ production apps** across real estate, fintech, food delivery, healthcare, fitness & logistics
-- 🟢 **Fiverr Level Two Seller** — 200+ projects delivered, 50+ repeat clients, ⭐ 5.0 rating
 - 🤖 Currently exploring **AI automation with n8n**
 - 🎓 IT Graduate
 - 💬 Ask me about **Flutter, GetX, Supabase, Stripe, maps & real-time features**
