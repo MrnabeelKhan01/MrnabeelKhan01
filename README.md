@@ -89,10 +89,6 @@ I turn Figma designs into fast, pixel-perfect, production-ready apps for iOS & A
 
 <div align="center">
 
-### 💼 Open for freelance projects — let's build your next app!
-
-[![Hire me on Fiverr](https://img.shields.io/badge/Hire_me_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/flutterstars)
-
 <img src="https://komarev.com/ghpvc/?username=MrnabeelKhan01&label=Profile%20views&color=13B9FD&style=flat" alt="Profile views" />
 
 </div>
